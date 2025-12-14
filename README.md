@@ -18,10 +18,3 @@ We invite anyone interested to use the materials under a GPL v3 license.
 We request that anyone using materials for scientific publication to cite
 
     Rudrasingam et al. (in prep.)
-
-       volume = ???,
-        pages = {???},
-          doi = {???},
-       adsurl = {http://adsabs.harvard.edu/abs/???},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-    }
