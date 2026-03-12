@@ -19,7 +19,7 @@ We request that anyone using materials for scientific publication to cite
 
     Rudrasingam et al. (2026), MNRAS
 
-Or use this these BibTeX entry:
+Or use this BibTeX entry:
 
     @ARTICLE{2026MNRAS.tmp..385R,
        author = {{Rudrasingam}, Jonatan and {Bedding}, Timothy R. and {Pope}, Benjamin J.~S. and {Pedersen}, May Gade and {Lund}, Mikkel N. and {White}, Timothy R. and {Hey}, Daniel},
